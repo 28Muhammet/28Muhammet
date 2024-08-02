@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mihlamuhammet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihlamuhammet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammet emin mıhla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet emin mıhla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammet-emin-mıhla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet-emin-mıhla" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18569524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18569524" height="30" width="40" /></a>
 <a href="https://instagram.com/yazilimci__olmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazilimci__olmak" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammet emin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammet emin" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammetemin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammetemin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muhammetmihla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammetmihla" height="30" width="40" /></a>
 </p>
 
@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=28muhammet&show_icons=true&locale=en" alt="28muhammet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=28muhammet&" alt="28muhammet" /></p>
-
-
